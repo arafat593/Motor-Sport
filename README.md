@@ -1,6 +1,6 @@
 # motor_sport_easy
 
-A new Flutter project.
+A new Flutter project for Motor Sport.
 
 ## Getting Started
 
